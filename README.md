@@ -13,11 +13,8 @@
   
 
 - ❓ Ask me about anything related to App Development stack and related technologies  
-  
 
-- ⚡ Fun fact: I code with my eyes open.
   
-
 <br/>  
 
 
