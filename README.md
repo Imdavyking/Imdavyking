@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm DavyKing, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm DavyKing, a full-time Blockchain developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [Solana Development](https://solana.com) and [Solidity Development](https://soliditylang.org/)
   
 
-- 🌱 I’m currently learning Unity  and Flutter Platform  
+- 🌱 I’m currently learning Cryptography and Flutter Platform  
   
 
-- ❓ Ask me about anything related to App Development stack and related technologies  
+- ❓ Ask me about anything related to Flutter Development stack and Blockchain technologies  
 
   
 <br/>  
