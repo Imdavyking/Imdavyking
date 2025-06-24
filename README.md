@@ -6,7 +6,7 @@
 ### <div align="center">I'm DavyKing, a full-time Blockchain developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [Solana](https://solana.com) and [Solidity](https://soliditylang.org/) Development
+- 🔭 I’m currently working on [Solidity](https://soliditylang.org/) Development and Rust based blockchains (ink!/anchor/coswasm)
   
 
 - 🌱 I’m currently learning Cryptography and Flutter Platform  
